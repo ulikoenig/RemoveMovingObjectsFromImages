@@ -1,4 +1,4 @@
-# Remove Moving Objects
+# Remove Moving Objects from Images
 
 ## Overview
 **Remove Moving Objects** is a Python script that removes moving objects from a set of images taken from the same location. The script aligns the images and computes a static background by applying a median filter. This is particularly useful for scenarios such as:
